@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq.Expressions;
 using CreditBoard.DTO;
 
-namespace CreditBoard.Repository
+namespace CreditBoard.Shared
 {
     public interface IGenericRepository<T> where T : BaseEntity
     {

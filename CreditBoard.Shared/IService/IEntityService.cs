@@ -1,7 +1,7 @@
 ﻿using CreditBoard.DTO;
 using System.Collections.Generic;
 
-namespace CreditBoard.Service
+namespace CreditBoard.Shared
 {
     public interface IEntityService<T> : IService
      where T : BaseEntity

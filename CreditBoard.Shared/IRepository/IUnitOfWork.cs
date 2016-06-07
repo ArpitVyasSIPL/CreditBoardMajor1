@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CreditBoard.Repository
+namespace CreditBoard.Shared
 {
     public interface IUnitOfWork : IDisposable
     {
